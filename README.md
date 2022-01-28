@@ -116,6 +116,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@Admax18](https://github.com/Admax18/)
 * [@mxr-conda](https://github.com/mxr-conda/)
 
